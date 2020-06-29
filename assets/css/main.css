@@ -1704,6 +1704,16 @@ input, select, textarea {
 		font-size: 14px;
 		word-spacing: 1px;
 	}
+	.certimage{
+		text-align: center;
+	}
+	.certimage img{
+		width: 72%;
+		transition: transform .2s; /* Animation */
+	}
+	.certimage img:hover{
+		transform: scale(1.5)
+	}
 	@media screen and (max-width:700px){
 		#about .projectname{
 			font-size: 9px;
