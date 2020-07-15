@@ -10,8 +10,6 @@
 	"To Relearn",
 	"What I learn't",
 	"And I Love to Code",
-	"I am theBearded Developer ",
-	"Teezamani"
 ];
 let i = 0;
 let count = 0;
